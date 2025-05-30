@@ -1,0 +1,58 @@
+/* Styling untuk keseluruhan halaman */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container utama */
+.card {
+    max-width: 1000px;
+    margin: 20px auto;
+    background: rgb(231, 230, 230);
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 2px 128px rgb(42, 45, 49);
+}
+
+/* Header utama */
+h1 {
+    color: #536588;
+    text-align: center;
+}
+
+/* Header kedua */
+h2 {
+    color: #383e46d3;
+    text-align:justify;
+}
+
+/* Paragraf */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Garis pemisah */
+hr {
+    border: none;
+    height: 2px;
+    background: #ddd;
+    margin: 10px 0;
+}
+
+/* Greeting */
+small {
+    display: block;
+    font-style: italic;
+    text-align: center;
+    color: #888;
+    margin-top: 5px;
+}
+
+.img {
+    height: 11120px;
+    width: 1140px;
+}
